@@ -59,8 +59,33 @@ button:hover{
 #c1{
     background-color: black;
     color: red;
-    height: 3.5in;
+    height: 5in;
 }
 .card:hover{
     size: 40px;
 }
+cc
+                <tr>
+                    <p>HD available</p>
+                    
+                    <td>4k+ HDR available</td>
+                </tr>
+               </table>
+               <table style="position: absolute; right: 20px;  color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+                     <tr>
+                           <th>Basic <br> <span style="font: bold;">$7.99</span></th>
+                               <th>Standard <br> <span style="font: bold;">$11.99</span></th>
+                               <th>Premium <br> <span style="font: bold;">$13.99</span></th>
+                                   </tr>
+                             <tr>
+                                <td></td>
+                             <td>Maria Anders</td>
+                              <td>Germany</td>
+                              </tr>
+                           <tr>
+                             <td>Centro comercial Moctezuma</td>
+                           <td>Francisco Chang</td>
+                            <td>Mexico</td>
+                          </tr>
+                          </table>
+              
